@@ -19,9 +19,9 @@ Dataset Files:
 - washington.csv
 
 ### Credits
-https://stackoverflow.com/questions/24870306/how-to-check-if-a-column-exists-in-pandas
-https://docs.python.org/2/library/time.html#time.strftime
-https://docs.python.org/3/library/calendar.html#calendar.month_name
-https://pandas.pydata.org/pandas-docs/stable/reference/series.html
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc.html
+- https://stackoverflow.com/questions/24870306/how-to-check-if-a-column-exists-in-pandas
+- https://docs.python.org/2/library/time.html#time.strftime
+- https://docs.python.org/3/library/calendar.html#calendar.month_name
+- https://pandas.pydata.org/pandas-docs/stable/reference/series.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc.html
 
