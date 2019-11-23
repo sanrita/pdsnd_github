@@ -1,7 +1,6 @@
 import time
 import calendar
 import pandas as pd
-import numpy as np
 
 
 CITY_DATA = {'chicago': 'chicago.csv',
