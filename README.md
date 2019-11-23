@@ -1,15 +1,22 @@
 ### Date created
-Include the date you created this project and README file.
+2019-11-03
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project will analyze the datasets of three cities(Chicago, New York City, and Washington, DC) to determine their bike share usage patterns.
 
 ### Files used
-Include the files used
+Dataset Files:
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://stackoverflow.com/questions/24870306/how-to-check-if-a-column-exists-in-pandas
+https://docs.python.org/2/library/time.html#time.strftime
+https://docs.python.org/3/library/calendar.html#calendar.month_name
+https://pandas.pydata.org/pandas-docs/stable/reference/series.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc.html
 
