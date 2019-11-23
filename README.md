@@ -5,7 +5,12 @@
 Explore US Bikeshare Data
 
 ### Description
-This project will analyze the datasets of three cities(Chicago, New York City, and Washington, DC) to determine their bike share usage patterns.
+This project will analyze the datasets of three cities(Chicago, New York City, and Washington, DC) to determine their bike share usage patterns. We will be analyzing the datasets to determine the following information:
+1. Popular times of travel
+2. Popular stations and trip
+3. Trip duration
+4. User info
+
 
 ### Files used
 Dataset Files:
